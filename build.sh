@@ -7,7 +7,7 @@ set -euo pipefail
 # ---------------------------------------------------------------------------
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")" && pwd)"
-DECK_SB_VERSION="${DECK_SB_VERSION:-2.0}"
+DECK_SB_VERSION="${DECK_SB_VERSION:-2.1}"
 DECK_SB_DEBUG="${DECK_SB_DEBUG:-0}"
 case "${DECK_SB_DEBUG,,}" in
   1|true|yes|on) DECK_SB_DEBUG=1 ;;

@@ -2,7 +2,7 @@
 # Common environment values shared across Deck Secure Boot scripts.
 DECK_SB_VERSION_DEFAULT="__DECK_SB_VERSION__"
 case "$DECK_SB_VERSION_DEFAULT" in
-  ""|__DECK_SB_VERSION__) DECK_SB_VERSION_DEFAULT="2.0" ;;
+  ""|__DECK_SB_VERSION__) DECK_SB_VERSION_DEFAULT="2.1" ;;
 esac
 : "${DECK_SB_VERSION:=$DECK_SB_VERSION_DEFAULT}"
 

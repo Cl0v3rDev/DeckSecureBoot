@@ -2,7 +2,7 @@
 
 [![](https://github.com/downthecrop/misc/blob/main/branding.png?raw=true)](https://github.com/downthecrop/DeckSecureBoot/releases/latest)
 # Steam Deck Secure Boot (Deck SB)
-**Status:** Beta 2.0
+**Status:** Beta 2.1
 
 Arch-based live ISO for Enabling Secure Boot the Steam Deck (LCD and OLED)
 
